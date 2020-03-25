@@ -264,7 +264,7 @@
 - [ ] [Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)
 - [ ] [Datacamp: Conda for Building & Distributing Packages](https://www.datacamp.com/courses/conda-for-building-distributing-packages)
 - [ ] [Datacamp: Creating Robust Python Workflows](https://www.datacamp.com/courses/creating-robust-python-workflows)
-- [ ] [Datacamp: Software Engineering for Data Scientists in Python](https://www.datacamp.com/courses/software-engineering-for-data-scientists-in-python)
+- [X] [Datacamp: Software Engineering for Data Scientists in Python](https://www.datacamp.com/courses/software-engineering-for-data-scientists-in-python)
 - [ ] [Datacamp: Designing Machine Learning Workflows in Python](https://www.datacamp.com/courses/designing-machine-learning-workflows-in-python)
 - [ ] [Datacamp: Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)
 - [ ] [Datacamp: Command Line Automation in Python](https://www.datacamp.com/courses/command-line-automation-in-python)
